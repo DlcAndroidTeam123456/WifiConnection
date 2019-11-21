@@ -10,7 +10,7 @@ allprojects {
 }
 	
 dependencies {
-  mplementation 'com.github.DlcAndroidTeam123456:WifiConnection:1.0.0'
+  implementation 'com.github.DlcAndroidTeam123456:WifiConnection:1.0.0'
 }
 	
 ```
